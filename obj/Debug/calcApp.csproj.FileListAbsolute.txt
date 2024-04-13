@@ -1,0 +1,10 @@
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\bin\Debug\calcApp.exe.config
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\bin\Debug\calcApp.exe
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\bin\Debug\calcApp.pdb
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.csproj.AssemblyReference.cache
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.Form1.resources
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.Properties.Resources.resources
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.csproj.GenerateResource.cache
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.exe
+C:\Users\BERKAY-KAAN\source\repos\calcApp\calcApp\obj\Debug\calcApp.pdb
